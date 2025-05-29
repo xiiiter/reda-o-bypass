@@ -269,7 +269,7 @@ _0x4b8f98: (function () {
     _0x48dd5f.style.cssText = "\n      background-color: #1e1e1e;\n      border-radius: " + (_0x22f98e() ? "12px" : "8px") + ";\n      padding: " + (_0x22f98e() ? "20px" : "24px") + ";\n      width: " + (_0x22f98e() ? "90%" : "450px") + ";\n      max-width: 95%;\n      max-height: 90vh;\n      overflow-y: auto;\n      box-shadow: 0 4px 20px rgba(253, 121, 12, 0.3);\n      border: 1px solid #fd790c;\n      color: #f0f0f0;\n      text-align: center;\n    ";
     const _0x326e83 = document.createElement("h2");
     _0x326e83.textContent = _0x17159f;
-    _0x326e83.style.cssText = "\n      color:rgb(153, 29, 255);\n      margin: 0 0 15px 0;\n      font-size: " + (_0x22f98e() ? "1.3rem" : "1.5rem") + ";\n    ";
+    _0x326e83.style.cssText = "\n      color: #fd790c;\n      margin: 0 0 15px 0;\n      font-size: " + (_0x22f98e() ? "1.3rem" : "1.5rem") + ";\n    ";
     const _0x5816ee = document.createElement("div");
     _0x5816ee.innerHTML = _0x248fb3;
     _0x5816ee.style.cssText = "\n      margin: 0 0 20px 0;\n      line-height: 1.5;\n      font-size: " + (_0x22f98e() ? "0.95rem" : "1rem") + ";\n    ";
@@ -342,16 +342,16 @@ _0x4b8f98: (function () {
     }], "https://i.imgur.com/CAqIV2G.png");
   }
   function _0x29e444() {
-    _0x5e3d71("Gerador de Redação", "xiiiter is the best bro", [{
+    _0x5e3d71("ðŸ“ Gerador de RedaÃ§Ã£o IA", "Este script irÃ¡ gerar uma redaÃ§Ã£o completa automaticamente com base no conteÃºdo da pÃ¡gina.<br><br>Deseja continuar?", [{
       text: "ðŸ–Šï¸ Gerar RedaÃ§Ã£o",
-      color: "#4e00f5",
+      color: "#fd790c",
       action: _0x2ce9fc
     }, {
       text: "âŒ Cancelar",
       color: "#444",
       textColor: "#fff",
       action: () => {}
-    }], "https://i.pinimg.com/736x/8a/bc/85/8abc8557f7f5c466fbabcc4dccafa0b4.jpg");
+    }], "https://i.pinimg.com/736x/01/cf/63/01cf63cb4ef2c6b2bd76e282007601ff.jpg");
   }
   function _0x398fac() {
     if (_0x597944()) {
